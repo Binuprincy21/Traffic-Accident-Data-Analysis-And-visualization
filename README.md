@@ -1,0 +1,2 @@
+# Traffic-Accident-Data-Analysis-And-visualization
+Traffic Accident Data Analysis and Visualization focuses on analyzing accident-related factors such as weather conditions, road conditions, time of day, speed limits,and vehicles involved.The study applies data cleaning,exploratory data analysis, and visualizations to identify patterns influencing accident severity and support road safety insights.
